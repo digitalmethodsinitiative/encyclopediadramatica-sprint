@@ -1,0 +1,11 @@
+,term,year,similar word (word2vec),similarity score (word2vec)
+0,internets,2020,internet,0.9104281663894653
+1,internets,2020,interwebs,0.8127540349960327
+2,internets,2020,interwebz,0.7885231971740723
+3,internets,2020,interbutts,0.7855631113052368
+4,internets,2020,tubes,0.7235695719718933
+5,internets,2020,intertubes,0.7183263897895813
+6,internets,2020,teh_internets,0.7055972814559937
+7,internets,2020,net,0.7035125494003296
+8,internets,2020,internetz,0.6855599880218506
+9,internets,2020,interweb,0.6802495718002319
